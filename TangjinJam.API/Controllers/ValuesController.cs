@@ -49,5 +49,8 @@ namespace TangjinJam.API.Controllers
         public void Delete(int id)
         {
         }
+
+        //[HttpGet]
+        //public 
     }
 }
